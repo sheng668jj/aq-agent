@@ -61,7 +61,7 @@ $ pytest -q
 ## 快速开始
 
 ```bash
-git clone <this-repo>
+git clone https://github.com/sheng668jj/aq-agent.git
 cd aq-agent
 python -m venv .venv
 
